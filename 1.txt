@@ -1,2 +1,6 @@
  a = 10
-b=2 
+b=2  
+
+def class(obiect):
+    def init(self):
+        self.name =nmae
